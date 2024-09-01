@@ -1,0 +1,2 @@
+[04-Aug-2024 12:55:42 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.0.30. in /home/danpitee/danpite.xyz/vendor/composer/platform_check.php on line 28
+[04-Aug-2024 12:55:43 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.0.30. in /home/danpitee/danpite.xyz/vendor/composer/platform_check.php on line 28
